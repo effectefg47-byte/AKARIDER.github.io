@@ -1,0 +1,6 @@
+{
+  "name": "AKARider - Аренда электровелосипедов",
+  "description": "Аренда и продажа электровелосипедов, покупка тяговых аккумуляторов (АКБ). Цены от 3000 ₽ в неделю.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
